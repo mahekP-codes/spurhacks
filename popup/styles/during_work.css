@@ -12,20 +12,37 @@
   
   display: flex;
   flex-direction: column;
+  row-gap: 5px;
   justify-content: center;
 }
 
-#timer {
-  height: 67%;
+.clock {
+  position: relative;
+  height: 60%;
   aspect-ratio: 1/1;
-  margin: 20px;
+  margin: auto;
+  box-sizing: border-box;
 
   background-color: rgb(39, 58, 74);
   border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.timer {
+  position: absolute;
+  margin: auto;
+  color: rgb(255, 255, 255);
+  font-size: 33px;
+  font-family: arial, sans-serif;
 }
 
 #work-break-button {
   width: 100px;
-  height: 22%;
+  height: 20%;
   margin: auto;
 }
+

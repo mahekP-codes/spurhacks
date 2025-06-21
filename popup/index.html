@@ -10,8 +10,17 @@
   <body>
     <div class = "during-work">
       <!-- <div class = "pomodoro"> -->
-        <div id = "timer">11:40</div>
-        <button id = "work-break-button"></button>
+        <div class = "clock" id = "base">
+          <div class="timer" id="timer">
+            <span id="js-minutes">25</span>
+            <span class="separator">:</span>
+            <span id="js-seconds">00</span>
+          </div>
+        </div>
+        
+        <button data-action="start" id="work-break-button">
+          Work
+        </button>
       <!-- </div> -->
     </div>
     <script src = "scripts.js"></script>
