@@ -1,6 +1,31 @@
-.timer {
-  width: 100px;
-  height: 100px;
+.during-work {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  background-color: bisque;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#timer {
+  height: 67%;
+  aspect-ratio: 1/1;
+  margin: 20px;
+
   background-color: rgb(39, 58, 74);
   border-radius: 50%;
+}
+
+#work-break-button {
+  width: 100px;
+  height: 22%;
+  margin: auto;
 }
