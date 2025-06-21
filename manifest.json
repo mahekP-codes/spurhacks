@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "spurhacks",
+  "version": "0.1",
+  "description": "A description about your Chrome Extension...",
+  "permissions": [
+    "browsingData",
+    "scripting",
+    "declarativeNetRequest",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": "imageAssets/testIcon.png",
+    "default_popup": "index.html",
+    "default_title": "WE NEED A NAME HERE"
+  }
+}
