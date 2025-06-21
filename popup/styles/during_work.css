@@ -1,0 +1,6 @@
+.timer {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(39, 58, 74);
+  border-radius: 50%;
+}
