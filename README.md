@@ -9,6 +9,7 @@ Spurhacks hackathon project
 5. The extension should now be available
 
 ## File Flow
+```
 spurhacks
 ├─ README.md
 ├─ manifest.json
@@ -24,3 +25,4 @@ spurhacks
 │  ├─ styles/
 │  │  ├─ main.css
 │  │  └─ work.css
+```
