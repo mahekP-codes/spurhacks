@@ -21,7 +21,7 @@
   ],
   "action": {
     "default_icon": "imageAssets/testIcon.png",
-    "default_popup": "index.html",
+    "default_popup": "popup/index.html",
     "default_title": "WE NEED A NAME HERE"
   }
 }

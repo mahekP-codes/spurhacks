@@ -1,0 +1,8 @@
+@import "during_work.css";
+@import "before_work.css";
+@import "after_work.css";
+
+html {
+  width: 175px;
+  height: 225px;
+}
