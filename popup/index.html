@@ -4,27 +4,24 @@
     <meta charset="utf-8">
     <meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
     <meta http-equiv = "X-UA-Compatible" content = "ie=edge">
-    <title>Focus Timer</title>
     <link href = "styles/main.css" rel = "stylesheet" type = "text/css">
   </head>
   <body>
-    <!-- BEFORE WORK SCREEN -->
-     <div id="before"
+
     <div class = "during-work">
-      <!-- <div class = "pomodoro"> -->
-        <div class = "clock" id = "base">
-          <div class="timer" id="timer">
-            <span id="js-minutes">25</span>
-            <span class="separator">:</span>
-            <span id="js-seconds">00</span>
-          </div>
+      <button href = "imageAssets/favicon-32x32.png" id = "settings" formaction=""></button>
+      <div class = "clock" id = "base">
+        <div class="timer" id="timer">
+          <span id="js-minutes">25</span>
+          <span class="separator">:</span>
+          <span id="js-seconds">00</span>
         </div>
-        
-          <button data-action="start" id="work-break-button">
-            Work
-          </button>
-          <a href="#" id="after-work-link" class="after-work-link">Finish Work Session</a>
-      <!-- </div> -->
+      </div>
+      
+        <button data-action="start" id="work-break-button">
+          work
+        </button>
+        <a href="#" id="after-work-link" class="after-work-link">Finish Work Session</a>
     </div>
     <script src = "scripts.js"></script>
   </body>

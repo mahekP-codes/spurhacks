@@ -2,9 +2,11 @@
 @import "before_work.css";
 @import "after_work.css";
 
-html {
+body {
   width: 300px;
   height: 340px;
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #D8E1E0;
 }
 
 .screen {
