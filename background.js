@@ -1,48 +1,29 @@
-// Default durations in minutes
-const default_work_minutes = 25;
-const default_break_minutes = 5;
-
+let breakSites, workSites;
 // Mode: "work": 1 or "break": 0
 let currentMode = 1;
 let timerId = null;
-
-// List of sites to block
-const socialSites = [
-  "||.facebook.com/*",
-  "||.instagram.com/*",
-  "||.x.com/*",
-  "||.tiktok.com/*",
-  "||.reddit.com/*",
-  "||.youtube.com/*"
-];
-
-const workSites = [
-  "||.slack.com/",
-  "||.zoom.us/",
-  "||.teams.microsoft.com/",
-  "||.mail.google.com/",
-  "||.outlook.office.com/"
-];
-
-// Converts a URL pattern to a DNR rule
-function createBlockRule(mode) {
-  const patterns = mode ? socialSites : workSites;
-
-  return patterns.map((pattern, idx) => ({
-    id: idx + 1,
-    priority: 1,
-    action: { type: "block" },
-    condition: {
-      urlFilter: pattern,
-      resourceTypes: ["main_frame"]
-    }
-  }));
+  
+let getJSON = function() {
+  return new Promise(resolve => {
+    fetch('blockRules.json')
+      .then(response => {
+        return response.json();
+      })
+      .then(data => {
+        breakSites = data.breakSites;
+        workSites = data.workSites;
+        resolve("JSON loaded");
+      })
+      .catch(err => {
+        console.error('Failed to load or parse JSON:', err);
+      });
+    });
 }
 
-function updateRulesForMode(mode) {
-  
-  const dnrRules = createBlockRule(mode);
-  console.log(dnrRules);
+let setDNR = async function(){
+  const results = await getJSON();
+  console.log(results);
+  const dnrRules = currentMode ? breakSites : workSites;
 
   chrome.declarativeNetRequest.updateDynamicRules({
     addRules:    dnrRules,
@@ -50,5 +31,5 @@ function updateRulesForMode(mode) {
   });
 }
 
-updateRulesForMode(currentMode);
-console.log("meow");
+getJSON();
+setDNR();
