@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Input Sans';
+  font-family: 'Inria Sans';
   src: url('../fonts/InputSans-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Input Sans';
+  font-family: 'Inria Sans';
   src: url('../fonts/InputSans-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
@@ -23,8 +23,8 @@
 }
 
 body {
-  width: 100px;
-  height: 200px;
+  width: 175px;
+  height: 240px;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -81,7 +81,7 @@ body {
 
 #work-break-button {
   width: 100px;
-  height: 20%;
+  height: 10%;
   margin: auto;
   font-family: "Lucida Console", sans-serif;
   background-color: rgba(51, 51, 51, 0.05);
@@ -93,7 +93,7 @@ body {
   font-family: "Lucida Console", "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: 500;
-  line-height: 20px;
+  line-height: 10px;
   list-style: none;
   margin: 0;
   padding: 10px 12px;
@@ -106,5 +106,10 @@ body {
   touch-action: manipulation;
   display: block;
   margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+#end-button {
+
 }
 
