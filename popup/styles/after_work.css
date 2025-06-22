@@ -1,0 +1,39 @@
+.after-work {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .after-work .message {
+    font-family: 'Input Sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  #view-report-button {
+    font-family: "Lucida Console", sans-serif;
+    font-size: 14px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #203E3E;
+    color: white;
+    cursor: pointer;
+  }
+  #view-report-button:hover {
+    opacity: 0.9;
+  }
+
+  body, html { margin:0; padding:0; width:175px; height:225px; }
+.screen {
+  display:flex; flex-direction:column; justify-content:center;
+  align-items:center; height:100%; box-sizing:border-box;
+}
+.message { font-family:'Input Sans'; font-size:16px; margin-bottom:16px; }
+button { font-size:14px; padding:6px 12px; }
