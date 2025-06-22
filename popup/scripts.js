@@ -1,15 +1,18 @@
-const state = localStorage.getItem('sessionState') || 'before';
-if (state === 'before') {
-  window.location.href = 'before.html';
-}
-if (state === 'after') {
-  window.location.href = 'after.html';
-}
+//const state = localStorage.getItem('sessionState') || 'before';
+//if (state === 'before') {
+//  window.location.href = 'before.html';
+//}
+//if (state === 'after') {
+//  window.location.href = 'after.html';
+//}
 
 // Grab DOM nodes
 const button      = document.getElementById('work-break-button');
 const minutesSpan = document.getElementById('js-minutes');
 const secondsSpan = document.getElementById('js-seconds');
+
+// Determine if break mode is on
+let breakmode = true;
 
 // Initial work duration (in seconds)
 let totalSeconds = 25 * 60;
@@ -42,15 +45,22 @@ function updateTimer() {
 
 // Handle button clicks: start or pause
 button.addEventListener('click', () => {
-  if (intervalId === null) {
+  if (breakmode) {
     // Kick off the countdown
+    clearInterval(intervalId);
+    intervalId = null;
+    totalSeconds = 25 * 60;
     intervalId = setInterval(updateTimer, 1000);
     button.textContent = 'Break';
+    breakmode = false;
   } else {
     // Pause the countdown
     clearInterval(intervalId);
     intervalId = null;
+    totalSeconds = 5 * 60;
+    intervalId = setInterval(updateTimer, 1000);
     button.textContent = 'Work';
+    breakmode = true;
   }
 });
 
@@ -82,7 +92,6 @@ const lengthInput = document.getElementById('session-length');
 const minSpan = document.getElementById('js-minutes');
 const secSpan = document.getElementById('js-seconds');
 
-let totalSec;
 let intId = null;
 
 // Helper: save/load state
@@ -98,21 +107,6 @@ function show(state) {
   Object.values(panels).forEach(p => p.classList.remove('active'));
   panels[state].classList.add('active');
   setState(state);
-}
-
-// Timer logic
-function pad(n){ return n<10 ? '0'+n : n; }
-function updateTimer() {
-  if (totalSeconds <= 0) {
-    clearInterval(intervalId);
-    intervalId = null;
-    finishBtn.textContent = 'Finish Work Session';
-    show(AFTER);
-    return;
-  }
-  totalSeconds--;
-  minutesSpan.textContent = pad(Math.floor(totalSeconds/60));
-  secondsSpan.textContent = pad(totalSeconds % 60);
 }
 
 // Event wiring
@@ -143,9 +137,9 @@ viewReport.addEventListener('click', () => {
   setState(BEFORE);
   // open your dashboard URL
   if (chrome?.tabs) {
-    chrome.tabs.create({ url: 'https://your-main-site.com/dashboard' });
+    chrome.tabs.create({ url: 'https://hackathon.mahekpatel.com' });
   } else {
-    window.open('https://your-main-site.com/dashboard', '_blank');
+    window.open('https://hackathon.mahekpatel.com', '_blank');
   }
 });
 
