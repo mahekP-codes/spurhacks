@@ -1,0 +1,2564 @@
+{
+  "sessions": [
+    {
+      "sessionId": "91174a43-b035-4abc-a150-6ed63e3eb611",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750511520000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "7a3e3db3-9a51-4a6a-8d81-ec2f3618e606",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750511520000,
+      "endTime": 1750511640000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "89e59b86-bf42-43a9-8a28-a758a0968806",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750511640000,
+      "endTime": 1750513140000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "4ae0ee36-6017-4227-af41-56d7ae0b84d6",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750513140000,
+      "endTime": 1750513200000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "53829115-577c-42af-8a7d-54e813487bf9",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750513200000,
+      "endTime": 1750514520000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "53d80859-c508-4eb2-9f32-a9ca6c0ecd4a",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750514520000,
+      "endTime": 1750514880000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "e6473e14-0892-48ce-b057-48fb5c719fb2",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750514880000,
+      "endTime": 1750516440000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "5b6d855e-7899-4c0d-a82c-df8d560873e7",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750516440000,
+      "endTime": 1750516620000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "73b703c8-08b6-4459-927c-af408673befc",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750516620000,
+      "endTime": 1750517520000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "9234acef-3e44-450f-9044-fc83544c5642",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750517520000,
+      "endTime": 1750517700000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "90703004-72b6-4a15-ba4b-ded8510c08f4",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750517700000,
+      "endTime": 1750519440000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "fc961c2e-f7b9-4d9d-a074-b2ca51a6ebe8",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750519440000,
+      "endTime": 1750519620000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "22f4d4e6-27c1-4afc-b7cd-fb443bf6cf7a",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750519620000,
+      "endTime": 1750521060000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "cb7161f8-d006-477f-8e0d-20ffffdb5cdb",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750521060000,
+      "endTime": 1750521360000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "732f23dc-89a9-4c05-b588-cdc1ae3dd88b",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750521360000,
+      "endTime": 1750522440000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "8e6fced7-a875-47dd-9915-b7f84979799e",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750525320000,
+      "endTime": 1750526820000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "bf443e22-6121-470f-b2b5-6eb96c7f59b2",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750526820000,
+      "endTime": 1750527120000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "74358d5b-e14c-4d07-a0f4-49844c765c82",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750527120000,
+      "endTime": 1750529520000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "be1ba08b-e5a3-4586-890d-3d39b557e078",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750529520000,
+      "endTime": 1750529700000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "5fcd57f0-6171-4c03-a4b1-e8bdc38a5c95",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750529700000,
+      "endTime": 1750531140000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "94d91263-d0b7-4d33-9a86-9b0202fd8589",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750531140000,
+      "endTime": 1750531380000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "26139e29-a0d0-4420-aad0-ec662bb2941a",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750531380000,
+      "endTime": 1750532940000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "edef808e-cf25-4b5a-88d8-1be30a34a262",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750532940000,
+      "endTime": 1750533300000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "f49f9d99-5acd-411f-931c-9d3c0989d5ca",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750533300000,
+      "endTime": 1750534800000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "5e6a37ae-c461-442f-8467-8546f0fde778",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750534800000,
+      "endTime": 1750534920000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "046f0d94-310f-4982-bbd6-d45dae5191a0",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750534920000,
+      "endTime": 1750536420000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "05cb8c90-c7e4-4189-a05e-685b004a0a97",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750536420000,
+      "endTime": 1750536900000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "092794aa-bdaa-4dc3-9070-fd7bdabf1765",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750536900000,
+      "endTime": 1750538640000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "58ee1520-3704-44ad-82b4-548929113e21",
+      "userId": "user-001",
+      "type": "break",
+      "startTime": 1750538640000,
+      "endTime": 1750539000000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "699cfe36-fb2c-4fce-a31e-c6700d6bb116",
+      "userId": "user-001",
+      "type": "work",
+      "startTime": 1750539000000,
+      "endTime": 1750541100000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "9790c565-f6d2-4c08-ac5f-40ef7c52cd7f",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512300000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "42099090-9c1f-42ba-bf50-595445ac5dd0",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750512300000,
+      "endTime": 1750512780000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "aea49c42-7e22-4b83-969e-d92d4ab5e5be",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750512780000,
+      "endTime": 1750515180000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "44937e7d-777b-491a-9022-b98bbbf2ab6a",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750515180000,
+      "endTime": 1750515600000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "5031249d-407e-4d99-ab42-303619c1d219",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750515600000,
+      "endTime": 1750517700000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "ec6ca72c-9673-4b78-a056-4ffedc53db05",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750517700000,
+      "endTime": 1750518120000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a5d7ff3a-42af-4747-b55f-508cea46559e",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750518120000,
+      "endTime": 1750520220000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "e629def0-6a42-479d-ad9e-7fb2289321f4",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750520220000,
+      "endTime": 1750520640000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "f5e0a600-f2b7-4511-b494-6bb15160b952",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750520640000,
+      "endTime": 1750523040000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "24441feb-bd10-464f-80c1-a31d67a06be6",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750525440000,
+      "endTime": 1750527240000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "5a85983f-a850-4f4e-aec0-9ba781cbfa63",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750527240000,
+      "endTime": 1750527660000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "59ed6e1a-5938-48ab-9188-8328e4987cda",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750527660000,
+      "endTime": 1750529100000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "141ad7d4-73e4-4a40-874a-4d8327b48b86",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750529100000,
+      "endTime": 1750529580000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "cbea385d-2462-4527-8632-cbb6b6f7b3bd",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750529580000,
+      "endTime": 1750531680000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "d040f545-0237-4d07-8b47-e826659c96de",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750531680000,
+      "endTime": 1750531980000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a6af71ef-40aa-4c15-a07c-059959903600",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750531980000,
+      "endTime": 1750534080000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "7504e209-1c15-4738-86fb-1c38065c8c16",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750534080000,
+      "endTime": 1750534500000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "7b192e40-8d7b-4860-902a-01f6afeb8338",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750534500000,
+      "endTime": 1750536000000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "f4ad11d3-88b2-4f7e-af43-6d84de2b58c7",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750536000000,
+      "endTime": 1750536420000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "41a5aefd-bc60-4e44-82b5-176fd1a1074e",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750536420000,
+      "endTime": 1750538520000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a2828c47-6258-476d-a65f-10f20548968b",
+      "userId": "user-002",
+      "type": "break",
+      "startTime": 1750538520000,
+      "endTime": 1750538940000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "726b7fd5-63ad-4d47-9051-9b1f515ccd4c",
+      "userId": "user-002",
+      "type": "work",
+      "startTime": 1750538940000,
+      "endTime": 1750540740000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "43afbe94-496d-4c83-80fa-641f5ac847d7",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750513200000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "a4589bbf-e428-4cc3-86aa-f0f3bff72eb9",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750513200000,
+      "endTime": 1750513440000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "5cdd8ebb-0bec-44c0-b788-bba8d8555831",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750513440000,
+      "endTime": 1750514580000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "2d127e8a-ce25-4908-a69c-29edb8f41ba6",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750514580000,
+      "endTime": 1750514640000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "6d6007b0-1299-402f-a238-873f12d23c07",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750514640000,
+      "endTime": 1750516020000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "fad1a563-bed8-4a4c-bc59-9e7518367eee",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750516020000,
+      "endTime": 1750516260000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "211eda91-03d5-4bee-89f4-95a942fd5733",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750516260000,
+      "endTime": 1750518000000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "43bdff87-69f5-47bc-8e4d-27a12fbe2e41",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750518000000,
+      "endTime": 1750518300000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "11affd7e-a5bf-4219-a092-ef372522b897",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750518300000,
+      "endTime": 1750519020000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "cff534b6-1ccc-40e6-a729-9755ef9888ef",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750519020000,
+      "endTime": 1750519380000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "fe2374f0-a0e4-4c04-9eb6-77d465a41afc",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750519380000,
+      "endTime": 1750520580000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "deb2ed59-e318-4098-8d7b-be9cdbe67822",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750520580000,
+      "endTime": 1750520820000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "6b6e6e17-539a-4aac-9af5-9d0c8d40dbd5",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750520820000,
+      "endTime": 1750523220000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "6372f3b7-0aa4-4116-8d42-caa2f62e3206",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750525320000,
+      "endTime": 1750527720000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "42b4f1b8-32c2-4765-9496-3e1c9958422a",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750527720000,
+      "endTime": 1750527780000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "fc00021e-8c52-422e-bf8a-7abd6ca1ea03",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750527780000,
+      "endTime": 1750528920000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "4d6165a1-c062-437e-9774-ab9b0893c1cf",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750528920000,
+      "endTime": 1750529280000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "95755e8e-4e9d-4fc1-b2d8-d1542861e7a9",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750529280000,
+      "endTime": 1750530120000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "7f4e681c-57cb-4c2b-b02f-ce5599542abd",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750530120000,
+      "endTime": 1750530360000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "a075c899-d700-4f23-9b8f-d938ecd80507",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750530360000,
+      "endTime": 1750531200000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "797d3aaa-077b-43bd-91f0-aeac0425433c",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750531200000,
+      "endTime": 1750531260000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "46007e60-983e-494a-b8cb-42f85e8b978b",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750531260000,
+      "endTime": 1750532280000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a925cdc2-82c2-4cf5-9b4c-29489c1e5d84",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750532280000,
+      "endTime": 1750532760000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "b06b23f0-eb34-4b23-84d2-50eb115c5746",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750532760000,
+      "endTime": 1750534260000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "cde57da4-8d06-4a2b-b921-f15487321804",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750534260000,
+      "endTime": 1750534380000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "7848cb8f-bef1-4f27-a720-1c5fa66656e5",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750534380000,
+      "endTime": 1750535220000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "db9a53af-476a-41f9-9a77-19e766dcc371",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750535220000,
+      "endTime": 1750535640000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "4d51bb7a-803e-4e8a-b38d-93b0028741aa",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750535640000,
+      "endTime": 1750536660000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "1b53643d-ed9d-42d5-a92f-2336396b8868",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750536660000,
+      "endTime": 1750536780000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "1cced29b-4c2c-4083-9031-3cc13f27c0c7",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750536780000,
+      "endTime": 1750538880000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "74f77967-fbe2-4518-b1ac-aac7c6d1fa43",
+      "userId": "user-003",
+      "type": "break",
+      "startTime": 1750538880000,
+      "endTime": 1750539240000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "d2a28a7e-8c25-4057-9cd2-7c321006ab97",
+      "userId": "user-003",
+      "type": "work",
+      "startTime": 1750539240000,
+      "endTime": 1750540620000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "9992ad67-6e60-4438-aa32-e59520f9ab7b",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512780000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "b840e9c3-e669-44eb-9f4c-29b2cc92edac",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750512780000,
+      "endTime": 1750512900000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "7cd5ae9d-8af7-4fb4-9a62-aa4d9f258745",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750512900000,
+      "endTime": 1750515300000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "95cfc888-a86c-40de-8865-4ce5f9a775f2",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750515300000,
+      "endTime": 1750515360000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "4e52a7fb-2287-43e7-96d3-04c29debc37d",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750515360000,
+      "endTime": 1750517760000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "51fe93bc-4b4a-4832-ae88-b8462728df3b",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750517760000,
+      "endTime": 1750518180000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "ec688598-7554-4114-b7ae-0a71361af8a6",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750518180000,
+      "endTime": 1750520580000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "36bb5bf7-dd65-4621-a390-37fffaaa7fc0",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750520580000,
+      "endTime": 1750520940000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "047b33fa-9d57-437d-b9de-e6af58a955be",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750520940000,
+      "endTime": 1750521720000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "e6a480a6-aca0-482a-9d0c-e165f235e5fc",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750525200000,
+      "endTime": 1750527000000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d617b354-2737-43ef-b1e1-e5d1a509b1af",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750527000000,
+      "endTime": 1750527420000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "6cfc58e5-00e7-4204-a029-a2e1538f55d7",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750527420000,
+      "endTime": 1750529520000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "4bc06b55-32d6-45e8-af1c-dcd7c1f63ee8",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750529520000,
+      "endTime": 1750529880000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d3e37ddc-d548-4ba9-bd42-00faed73e0d5",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750529880000,
+      "endTime": 1750531680000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d9de9564-4f85-4910-a182-ed6226d2916b",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750531680000,
+      "endTime": 1750531800000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "4a5c0f7d-0cfe-4ca1-8853-b665c76b4a66",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750531800000,
+      "endTime": 1750532940000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "966fac58-6211-42e1-8978-eda5673d524e",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750532940000,
+      "endTime": 1750533060000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "b1f5c89c-34fb-413c-b2b8-7a27e8785ded",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750533060000,
+      "endTime": 1750535340000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "26b0bef0-092c-4de6-a70d-d70e4cf327dd",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750535340000,
+      "endTime": 1750535820000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "4b1782a2-b788-48c6-8aeb-ed53ce931df6",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750535820000,
+      "endTime": 1750536960000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "722f8786-765e-4ba0-8fab-08145d35e715",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750536960000,
+      "endTime": 1750537320000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "2366a9a6-4905-4c48-b86e-3f3db92b40dc",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750537320000,
+      "endTime": 1750538820000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "bd8ebe9c-5502-4364-b31a-b27a8279d35f",
+      "userId": "user-004",
+      "type": "break",
+      "startTime": 1750538820000,
+      "endTime": 1750539120000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "18f21ffc-5d9b-4b48-aeef-8b378613e124",
+      "userId": "user-004",
+      "type": "work",
+      "startTime": 1750539120000,
+      "endTime": 1750540620000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "9e6fd671-2b9a-44bf-9d57-9029ed19851d",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512600000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "86d792e0-355c-4399-8af4-b76c783af8ae",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750512600000,
+      "endTime": 1750512960000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d0dae757-5024-4fb0-bfbc-c33ebec52223",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750512960000,
+      "endTime": 1750515360000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "d54163e8-f039-400e-aae4-9ef5489b6153",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750515360000,
+      "endTime": 1750515720000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "6a14ea0f-dd44-4ad2-b703-1a1c14f74631",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750515720000,
+      "endTime": 1750517820000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "1db1a931-aa23-43c1-952b-12584c0bf380",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750517820000,
+      "endTime": 1750518120000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "d17357f4-32f3-4a2e-b2ba-fbd17f0f04d0",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750518120000,
+      "endTime": 1750519920000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "73abc14c-1d7f-4f55-ba50-c3c1cde6eb21",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750519920000,
+      "endTime": 1750520400000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "8304c283-be1f-4e71-91fd-b0f105e69cdf",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750520400000,
+      "endTime": 1750522500000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "d6e3d7c4-0948-4368-b2e1-3aeea3cef231",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750525380000,
+      "endTime": 1750527480000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "d879a743-6f99-4713-90c9-550bcad68805",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750527480000,
+      "endTime": 1750527900000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "e9c33f6f-ed54-48c1-9f1a-72c989c3ce7a",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750527900000,
+      "endTime": 1750530300000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "ab3cfb2e-c53d-40a5-b250-bf62378c0fe0",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750530300000,
+      "endTime": 1750530480000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "57542e18-2eca-45b7-80ff-da7553b5474f",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750530480000,
+      "endTime": 1750532580000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "78d1f837-7309-48b7-9b32-812b93f16487",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750532580000,
+      "endTime": 1750533000000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "31fddda8-50df-44d5-a1e7-b8440c0310a0",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750533000000,
+      "endTime": 1750534200000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "6a86d4fb-ed18-499a-a4f9-bc0f0aea39ee",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750534200000,
+      "endTime": 1750534620000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "0edf615a-c007-42ac-ad8c-47b6232d5d1a",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750534620000,
+      "endTime": 1750536720000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "600ee3f4-5dad-4a6f-b9ba-60962e2a8148",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750536720000,
+      "endTime": 1750537140000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a9068edd-8aa2-4917-a017-287a2ed98108",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750537140000,
+      "endTime": 1750539240000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a984fe3a-f1c8-4dfd-a7ec-12041ea96900",
+      "userId": "user-005",
+      "type": "break",
+      "startTime": 1750539240000,
+      "endTime": 1750539540000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a90f558e-7188-42fc-92e4-fe6fae6e25e7",
+      "userId": "user-005",
+      "type": "work",
+      "startTime": 1750539540000,
+      "endTime": 1750541040000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "b33a12cf-0b4c-4203-9caf-f880f49fb5dc",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512720000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "72f17ed4-3035-429a-a928-26dfaebcc699",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750512720000,
+      "endTime": 1750512960000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "1854a27d-1fd3-4528-b032-10d4c51000ec",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750512960000,
+      "endTime": 1750514460000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "201982fa-856f-4805-b7d3-3a8e1db95f42",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750514460000,
+      "endTime": 1750514760000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "927eb53e-79ee-42c2-9323-00267a19996b",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750514760000,
+      "endTime": 1750515480000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "4fd72351-9380-49b3-8162-3fcd139f4886",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750515480000,
+      "endTime": 1750515780000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "f7098aee-299c-43f4-8e03-be2a458b387c",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750515780000,
+      "endTime": 1750516740000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "7fe4d389-73a3-4a07-bc28-6cd4768d51f4",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750516740000,
+      "endTime": 1750517220000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "339301f2-2266-44e0-b75e-047a88826151",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750517220000,
+      "endTime": 1750517940000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "0b770f48-5b9d-4b54-9daf-9ee1189de222",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750517940000,
+      "endTime": 1750518300000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "0c0b2554-3002-42df-803c-417f19540e3b",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750518300000,
+      "endTime": 1750519080000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "116561f6-279a-41d1-8717-91682a362f45",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750519080000,
+      "endTime": 1750519440000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "110ae228-118b-4815-b362-43bdc91714c6",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750519440000,
+      "endTime": 1750521240000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "a38a638a-a17e-48fb-ad8f-3f3981fef78c",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750521240000,
+      "endTime": 1750521420000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "bbbc0475-48b5-486f-b256-fc497f5d83be",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750521420000,
+      "endTime": 1750522560000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "9da3077b-6801-40ae-9cf9-ab99c6e910d0",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750525380000,
+      "endTime": 1750526820000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "2308328a-d195-45b5-acbd-065b27989350",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750526820000,
+      "endTime": 1750527240000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "4efc8619-b5be-4dc3-855c-6e7fcb3e78b8",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750527240000,
+      "endTime": 1750529340000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "338ae8ea-25f5-4905-a0b1-fc01bbc223d9",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750529340000,
+      "endTime": 1750529640000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a75b5a99-fca7-4718-b8e2-311d2b361a3b",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750529640000,
+      "endTime": 1750531740000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "dc135b4b-5dae-4fcf-ae0a-ba474bb44ad7",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750531740000,
+      "endTime": 1750532160000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "64052f1d-229b-42f1-8c21-c312b13758ec",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750532160000,
+      "endTime": 1750534560000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "377f74fa-b5ad-4c06-9c85-77fc81f0dd08",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750534560000,
+      "endTime": 1750534980000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "b6c3a4a8-73b9-4509-8e26-3610328c953b",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750534980000,
+      "endTime": 1750537080000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "18f0e593-103e-4d1b-b325-2a105a1ce88f",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750537080000,
+      "endTime": 1750537380000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "fe5fb442-6f42-4104-a6a6-4611fbcb9957",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750537380000,
+      "endTime": 1750538340000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "7172b743-a2b1-4b99-8477-d18a87c6ef42",
+      "userId": "user-006",
+      "type": "break",
+      "startTime": 1750538340000,
+      "endTime": 1750538700000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a6cb0a28-e3fd-4eca-bc21-9893bcd22ec5",
+      "userId": "user-006",
+      "type": "work",
+      "startTime": 1750538700000,
+      "endTime": 1750540260000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "f6945729-5689-4593-b0c9-cdeecc84f7cc",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512300000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "89ad1289-70c2-4b28-8db6-a8e64230e1a4",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750512300000,
+      "endTime": 1750512780000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "51b12a5b-2ff5-4ffd-ba15-07d5b6b77b39",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750512780000,
+      "endTime": 1750514280000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "931ec36d-90e5-4200-b3ca-aaebb3d87349",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750514280000,
+      "endTime": 1750514640000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "f49f7901-e9bb-4c5a-b2f1-9b92f13dae1a",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750514640000,
+      "endTime": 1750516560000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "3556ba99-d804-4405-b238-d5ce9e6ab14a",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750516560000,
+      "endTime": 1750516800000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "f163dc96-1e97-4f60-b6d3-191b052c1922",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750516800000,
+      "endTime": 1750518600000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "b4a56f6d-c462-413a-a816-cfd92028f2a7",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750518600000,
+      "endTime": 1750518900000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "b77c41a2-47ed-4739-85ab-3d55a0e2ce05",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750518900000,
+      "endTime": 1750521300000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "16fedbd0-d648-46a0-8642-ee2e8520ae6a",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750521300000,
+      "endTime": 1750521540000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "302491f5-9e96-4d56-adbe-2b7a10e53f3a",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750521540000,
+      "endTime": 1750522920000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "13610ad3-0be5-427f-a2d8-a0a6e76b5d06",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750525200000,
+      "endTime": 1750526460000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "09a3eb23-87bf-4a86-beab-444abd8dcc6b",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750526460000,
+      "endTime": 1750526760000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "405b0879-b222-4908-b51d-c09d76200949",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750526760000,
+      "endTime": 1750528860000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "0ffd3a2e-723c-4f36-9181-17d142d4fd5f",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750528860000,
+      "endTime": 1750529160000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "eaf5656c-d8b7-4665-947e-be10798d74e2",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750529160000,
+      "endTime": 1750530540000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "44a02783-60c6-4587-83f1-41915e908e50",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750530540000,
+      "endTime": 1750531020000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "c6364300-1ac4-4dd8-833f-256a2601760b",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750531020000,
+      "endTime": 1750532580000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "85e94866-6335-41f7-a946-cd38d77ead05",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750532580000,
+      "endTime": 1750533060000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "b4669783-48aa-4eb7-be78-75602196abab",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750533060000,
+      "endTime": 1750533960000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "061f5a26-1114-44b7-a317-d64ef2494e84",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750533960000,
+      "endTime": 1750534020000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "a15463bb-f783-43e4-9623-bbe7dec55257",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750534020000,
+      "endTime": 1750535820000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d2abf3e9-6292-4b3f-adc8-275b025d1087",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750535820000,
+      "endTime": 1750535940000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "d7c7444c-1724-4b3e-89eb-04e9d47f1ba4",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750535940000,
+      "endTime": 1750537560000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "f8a7ca37-b6f0-4bc2-9f4f-d059e1e25e67",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750537560000,
+      "endTime": 1750537740000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "2aa8270c-d8b6-4dce-b698-b575638875b7",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750537740000,
+      "endTime": 1750539240000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "491c6a03-11f1-40c9-9982-4c720646d14b",
+      "userId": "user-007",
+      "type": "break",
+      "startTime": 1750539240000,
+      "endTime": 1750539480000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "4f9b7d7e-4ca3-43db-b6b9-e2072fb7974c",
+      "userId": "user-007",
+      "type": "work",
+      "startTime": 1750539480000,
+      "endTime": 1750540980000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "825a0a59-4230-4359-929c-a0dec46e6126",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750512600000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "25466626-8aa3-4914-b65a-a0bba902b0cb",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750512600000,
+      "endTime": 1750512660000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "0b7e4030-effc-4a2c-92fd-df686c7c8997",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750512660000,
+      "endTime": 1750514760000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "d3b1d9f0-926a-4179-be04-11aba8edc945",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750514760000,
+      "endTime": 1750515120000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "50459c6f-2143-488c-8a5c-f95a9a69d865",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750515120000,
+      "endTime": 1750516080000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "2cb3a8d9-da2a-4b35-8c4a-6cbd5a7e0951",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750516080000,
+      "endTime": 1750516500000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "36d93946-f1bf-4c0d-b846-7fbfb0d6e249",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750516500000,
+      "endTime": 1750518900000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "440649b8-f35f-4b1c-afad-9b3a0446877c",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750518900000,
+      "endTime": 1750519320000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "93f743f5-9f68-4601-82e4-87db977c0dfd",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750519320000,
+      "endTime": 1750521720000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "1efd0cb6-b076-4a8d-a604-efa761f3ffc9",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750525440000,
+      "endTime": 1750526940000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "851fd1a8-ffb6-4c67-a979-9d538caf7642",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750526940000,
+      "endTime": 1750527240000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "4587be54-fa3f-447a-9fa2-3f977db1371b",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750527240000,
+      "endTime": 1750529040000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "3ee55010-1fdd-42d1-8afb-db7ced0398b8",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750529040000,
+      "endTime": 1750529100000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a8c1c2f8-8747-47ac-b509-afd212753821",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750529100000,
+      "endTime": 1750531500000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "69ac4f03-11eb-44aa-ae08-24a07b49d770",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750531500000,
+      "endTime": 1750531620000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "bbfcdeb4-e3a2-4a29-8ed8-dd75d5d77184",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750531620000,
+      "endTime": 1750533120000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "a49c58c2-45b5-4e53-9f40-39ba1c7b31e7",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750533120000,
+      "endTime": 1750533420000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "20505ced-0403-45b7-88c7-8f5ed4d0ceb4",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750533420000,
+      "endTime": 1750534560000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "91005442-4617-441a-8e2e-f9c183243dee",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750534560000,
+      "endTime": 1750534620000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "2e30ed2f-95aa-4c5e-ab52-3166d835521d",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750534620000,
+      "endTime": 1750537020000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "c744aad0-39b6-40ba-b571-7500362f4026",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750537020000,
+      "endTime": 1750537380000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "a8f0263b-de38-4ef4-b86a-d0769341fe33",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750537380000,
+      "endTime": 1750538580000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "13a78b13-06f3-40aa-8a69-9001314504ac",
+      "userId": "user-008",
+      "type": "break",
+      "startTime": 1750538580000,
+      "endTime": 1750538640000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "4dab617c-791a-4094-96d1-1913372fd145",
+      "userId": "user-008",
+      "type": "work",
+      "startTime": 1750538640000,
+      "endTime": 1750540440000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "a72e406a-d821-4a8b-830d-d19d7cfaa024",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750513200000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "7c91833d-2ed2-44c4-8866-06c49fd01fb3",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750513200000,
+      "endTime": 1750513440000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "9544e3d6-9650-4be0-9dba-0666d5cedc67",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750513440000,
+      "endTime": 1750515420000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "e0df3e7c-900d-4e11-b42e-270980440faa",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750515420000,
+      "endTime": 1750515480000,
+      "completed": false,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "cebd6e0b-fc2d-44b3-a6ca-0073a07fbedd",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750515480000,
+      "endTime": 1750517880000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "9c81b445-d39f-49ed-be54-810c7f921c2b",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750517880000,
+      "endTime": 1750518240000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "e9178f4d-2366-4f87-a997-44db45e74414",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750518240000,
+      "endTime": 1750519740000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "28378202-4ec7-4bfc-a2b1-d7911e0eefdc",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750519740000,
+      "endTime": 1750520220000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "b0425679-da5a-4272-ab02-d09f24ad3160",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750520220000,
+      "endTime": 1750522620000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "1d714131-f4bc-4908-962d-99b3374602c9",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750525380000,
+      "endTime": 1750526700000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "e72320b2-74df-4c46-8e2b-e8bf6a884051",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750526700000,
+      "endTime": 1750527060000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "9d90fdc1-4576-4cf7-8b54-fb21412d39ab",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750527060000,
+      "endTime": 1750529160000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "ae1c671c-ca22-4f8e-ac76-353afcf9e85b",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750529160000,
+      "endTime": 1750529640000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "48977a6a-be19-4f6c-844e-ae819968ac26",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750529640000,
+      "endTime": 1750530720000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 2
+    },
+    {
+      "sessionId": "48f89630-b03c-4cae-87e4-a982dbc7c443",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750530720000,
+      "endTime": 1750531020000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "6b51f4d4-a4a2-4ebe-8b13-2bf92809485c",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750531020000,
+      "endTime": 1750532520000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "e456a5cd-7998-4621-9cf6-a96a427660b4",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750532520000,
+      "endTime": 1750532820000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "942a5b05-f776-4d0e-8d65-8766e34c5577",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750532820000,
+      "endTime": 1750534320000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "dd670e99-7a17-4fc4-a44e-a523075b4aec",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750534320000,
+      "endTime": 1750534440000,
+      "completed": false,
+      "blockedSiteAccesses": 2,
+      "overrides": 2
+    },
+    {
+      "sessionId": "998b91b6-115f-4486-a371-31c777ff1e05",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750534440000,
+      "endTime": 1750536840000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "41139752-f40b-4433-972a-a88063434230",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750536840000,
+      "endTime": 1750537020000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "c670360d-f918-4b94-8f3d-a5b62709500e",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750537020000,
+      "endTime": 1750538520000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "4cf8d3d6-1d55-41b6-9817-bb4f6b43a5a6",
+      "userId": "user-009",
+      "type": "break",
+      "startTime": 1750538520000,
+      "endTime": 1750538580000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "f8c75782-1acf-4dd7-88f6-e70d11ca96a3",
+      "userId": "user-009",
+      "type": "work",
+      "startTime": 1750538580000,
+      "endTime": 1750540500000,
+      "completed": false,
+      "blockedSiteAccesses": 1,
+      "overrides": 3
+    },
+    {
+      "sessionId": "c0c35e45-c859-4351-932f-59e1bf4d8890",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750510800000,
+      "endTime": 1750513200000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "bf8cf052-dcd5-4130-bd3a-4aecbbb734bf",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750513200000,
+      "endTime": 1750513560000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "dad68349-61d0-49de-83c4-1c5a2b2431e6",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750513560000,
+      "endTime": 1750515360000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "fc55b738-9743-42a0-9889-02ac0cc2a4fb",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750515360000,
+      "endTime": 1750515660000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "3b4796d3-0389-4780-a0f6-6258ab47277b",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750515660000,
+      "endTime": 1750517760000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    },
+    {
+      "sessionId": "b0cb0a8f-8de1-447c-9f42-f770e529ea35",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750517760000,
+      "endTime": 1750518240000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "fb10c415-f177-4148-98d0-3cc209092c2e",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750518240000,
+      "endTime": 1750520040000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "7298e262-beb3-44fb-a016-a66c855b2f3f",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750520040000,
+      "endTime": 1750520160000,
+      "completed": false,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "137adf8a-9eef-4158-97c3-eaf8f33cafd3",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750520160000,
+      "endTime": 1750522560000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "e46d6e0c-fb20-4e87-9655-94cc90094010",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750525260000,
+      "endTime": 1750527660000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 3
+    },
+    {
+      "sessionId": "45ab0b2e-3184-43c8-ab77-7fd8581433a4",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750527660000,
+      "endTime": 1750527960000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "da84d6f1-0ab1-43e1-aec4-ce4d78d84104",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750527960000,
+      "endTime": 1750529460000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "884fc05e-04cc-4bc7-9a66-d04d0daeac0b",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750529460000,
+      "endTime": 1750529760000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "bff919c3-a239-4678-a51a-9b4754138496",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750529760000,
+      "endTime": 1750531260000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "99b48e5c-f59e-42a5-a8a4-d3e29ecd391b",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750531260000,
+      "endTime": 1750531620000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "d0f33c49-1e2f-480f-b5d6-614e4ec424a4",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750531620000,
+      "endTime": 1750533420000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "e60fd08a-da38-4a1b-9ab8-51378bfc0219",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750533420000,
+      "endTime": 1750533780000,
+      "completed": true,
+      "blockedSiteAccesses": 1,
+      "overrides": 1
+    },
+    {
+      "sessionId": "9c22d30e-2f35-4fa0-99f8-322b6cf1ba79",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750533780000,
+      "endTime": 1750535280000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 0
+    },
+    {
+      "sessionId": "d9e4ccb1-ef04-4f8f-a210-1a6df3b191bf",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750535280000,
+      "endTime": 1750535760000,
+      "completed": true,
+      "blockedSiteAccesses": 3,
+      "overrides": 3
+    },
+    {
+      "sessionId": "c4c9c699-5386-492b-8886-01d0dfc36217",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750535760000,
+      "endTime": 1750537560000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 1
+    },
+    {
+      "sessionId": "fb4d6d89-6319-4b32-9076-5b2fad95cf90",
+      "userId": "user-010",
+      "type": "break",
+      "startTime": 1750537560000,
+      "endTime": 1750538040000,
+      "completed": true,
+      "blockedSiteAccesses": 2,
+      "overrides": 3
+    },
+    {
+      "sessionId": "fe962d7a-1b3a-4c35-8f2e-7d7cac4326f2",
+      "userId": "user-010",
+      "type": "work",
+      "startTime": 1750538040000,
+      "endTime": 1750540140000,
+      "completed": true,
+      "blockedSiteAccesses": 0,
+      "overrides": 2
+    }
+  ]
+}
