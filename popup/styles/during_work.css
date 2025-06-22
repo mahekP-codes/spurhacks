@@ -23,8 +23,8 @@
 }
 
 body {
-  width: 175px;
-  height: 240px;
+  width: 300px;
+  height: 340px;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -99,7 +99,6 @@ body {
   padding: 10px 12px;
   text-align: center;
   transition: all 200ms;
-  vertical-align: baseline;
   white-space: nowrap;
   user-select: none;
   -webkit-user-select: none;
@@ -107,9 +106,5 @@ body {
   display: block;
   margin: 0 auto;
   margin-bottom: 50px;
-}
-
-#end-button {
-
 }
 
