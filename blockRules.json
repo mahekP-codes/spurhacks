@@ -1,0 +1,74 @@
+{
+  "breakSites": [
+    {
+      "id": 1,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||instagram.com/*",
+        "resourceTypes": ["main_frame"]
+      }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||tiktok.com/*",
+        "resourceTypes": ["main_frame"]
+      }
+    }
+    ,
+    {
+      "id": 3,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||facebook.com/*",
+        "resourceTypes": ["main_frame"]
+      }
+    }
+    ,
+    {
+      "id": 4,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||x.com/*",
+        "resourceTypes": ["main_frame"]
+      }
+    }
+  ],
+  "workSites": [
+    {
+      "id": 1,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||slack.com/*",
+        "resourceTypes": ["main_frame"]
+      }
+    },
+    {
+      "id": 2,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "||zoom.us/*",
+        "resourceTypes": ["main_frame"]
+      }
+    }
+  ]
+}
