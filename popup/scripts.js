@@ -3,6 +3,9 @@ const button      = document.getElementById('work-break-button');
 const minutesSpan = document.getElementById('js-minutes');
 const secondsSpan = document.getElementById('js-seconds');
 
+// Determine if break mode is on
+let breakmode = true;
+
 // Initial work duration (in seconds)
 let totalSeconds = 25 * 60;
 
@@ -34,14 +37,21 @@ function updateTimer() {
 
 // Handle button clicks: start or pause
 button.addEventListener('click', () => {
-  if (intervalId === null) {
+  if (breakmode) {
     // Kick off the countdown
+    clearInterval(intervalId);
+    intervalId = null;
+    totalSeconds = 25 * 60;
     intervalId = setInterval(updateTimer, 1000);
     button.textContent = 'Break';
+    breakmode = false;
   } else {
     // Pause the countdown
     clearInterval(intervalId);
     intervalId = null;
+    totalSeconds = 5 * 60;
+    intervalId = setInterval(updateTimer, 1000);
     button.textContent = 'Work';
+    breakmode = true;
   }
 });
