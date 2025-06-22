@@ -1,6 +1,6 @@
 // Redirect to the correct page if state isn't “before”
 const state = localStorage.getItem('sessionState') || 'before';
-if (state === 'during')  window.location.href = 'during.html';
+if (state === 'during')  window.location.href = 'index.html';
 if (state === 'after')   window.location.href = 'after.html';
 
 const startBtn = document.getElementById('start-button');

@@ -1,6 +1,28 @@
-body, html { margin:0; padding:0; width:175px; height:225px; }
-.screen {
-  display:flex; flex-direction:column; justify-content:center;
-  align-items:center; height:100%; box-sizing:border-box;
-}
-input, button { margin-top:8px; font-size:14px; }
+html, body {
+    margin: 0; padding: 10px;
+    width: 175px; height: 225px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .screen {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%; height: 100%;
+  }
+  
+  .screen.active {
+    display: flex;
+  }
+  
+  #before p {
+    margin: 0;
+  }
+  
+  #length,
+  #start-btn {
+    margin-top: 8px;
+    font-size: 14px;
+    width: 80%;
+  }

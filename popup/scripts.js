@@ -1,10 +1,10 @@
-const state = localStorage.getItem('sessionState') || 'before';
-if (state === 'before') {
-  window.location.href = 'before.html';
-}
-if (state === 'after') {
-  window.location.href = 'after.html';
-}
+//const state = localStorage.getItem('sessionState') || 'before';
+//if (state === 'before') {
+//  window.location.href = 'before.html';
+//}
+//if (state === 'after') {
+//  window.location.href = 'after.html';
+//}
 
 // Grab DOM nodes
 const button      = document.getElementById('work-break-button');
@@ -92,7 +92,6 @@ const lengthInput = document.getElementById('session-length');
 const minSpan = document.getElementById('js-minutes');
 const secSpan = document.getElementById('js-seconds');
 
-let totalSec;
 let intId = null;
 
 // Helper: save/load state
@@ -108,21 +107,6 @@ function show(state) {
   Object.values(panels).forEach(p => p.classList.remove('active'));
   panels[state].classList.add('active');
   setState(state);
-}
-
-// Timer logic
-function pad(n){ return n<10 ? '0'+n : n; }
-function updateTimer() {
-  if (totalSeconds <= 0) {
-    clearInterval(intervalId);
-    intervalId = null;
-    finishBtn.textContent = 'Finish Work Session';
-    show(AFTER);
-    return;
-  }
-  totalSeconds--;
-  minutesSpan.textContent = pad(Math.floor(totalSeconds/60));
-  secondsSpan.textContent = pad(totalSeconds % 60);
 }
 
 // Event wiring
@@ -153,9 +137,9 @@ viewReport.addEventListener('click', () => {
   setState(BEFORE);
   // open your dashboard URL
   if (chrome?.tabs) {
-    chrome.tabs.create({ url: 'https://your-main-site.com/dashboard' });
+    chrome.tabs.create({ url: 'https://hackathon.mahekpatel.com' });
   } else {
-    window.open('https://your-main-site.com/dashboard', '_blank');
+    window.open('https://hackathon.mahekpatel.com', '_blank');
   }
 });
 
