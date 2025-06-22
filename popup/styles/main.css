@@ -6,3 +6,20 @@ html {
   width: 175px;
   height: 225px;
 }
+
+.screen {
+  display: none;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  position: absolute;
+  top: 0; left: 0;
+}
+
+.screen.active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
