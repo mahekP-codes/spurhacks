@@ -1,0 +1,49 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8" />
+<title>Productivity Settings</title>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<style>body{font-family:sans-serif;max-width:480px;margin:40px auto}</style>
+</head><body>
+<h2>Blocked sites</h2>
+
+<div id="g_id_onload"
+     data-client_id="YOUR_GOOGLE_CLIENT_ID"
+     data-auto_prompt="false"
+     data-callback="onSignIn"></div>
+<div class="g_id_signin" data-type="standard" data-size="large"></div>
+
+<form id="settings" style="display:none">
+  <textarea id="sites" rows="5" style="width:100%"></textarea><br>
+  <button type="submit">Save</button>
+  <button type="button" id="startWork">Start Work</button>
+</form>
+
+<script>
+let idToken="";
+async function onSignIn(resp){
+  idToken=resp.credential;
+  document.querySelector(".g_id_signin").style.display="none";
+  document.getElementById("settings").style.display="block";
+  loadSites();
+}
+async function loadSites(){
+  const r=await fetch("/api/settings",{headers:{Authorization:`Bearer ${idToken}`}});
+  const j=await r.json();
+  document.getElementById("sites").value=(j.blockedSites||[]).join("\n");
+}
+document.getElementById("settings").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const list=document.getElementById("sites").value.split(/\s+/).filter(Boolean);
+  await fetch("/api/settings",{
+    method:"PUT",
+    headers:{Authorization:`Bearer ${idToken}`,"Content-Type":"application/json"},
+    body:JSON.stringify({blockedSites:list})
+  });
+  alert("Saved!");
+});
+document.getElementById("startWork").addEventListener("click",()=>{
+  chrome?.runtime?.sendMessage({cmd:"START_WORK"});   // if opened inside extension
+});
+</script>
+</body></html>

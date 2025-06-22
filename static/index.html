@@ -1,0 +1,87 @@
+<!doctype html>
+<meta charset="utf-8" />
+<title>Productivity Settings</title>
+
+<!--  Google Identity Services script  -->
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+
+<style>
+body      {font-family:sans-serif;max-width:460px;margin:48px auto}
+label     {display:block;margin-top:1em}
+input,textarea{width:100%}
+#status   {color:#08c;margin-top:1em}
+</style>
+
+<h2>Blocked-site & Timer Settings</h2>
+
+<!--  Google Sign-In button  -->
+<div id="g_id_onload"
+     data-client_id="240528064316-2i3qqa2etj2o3o3v0epja92rjqlhvvm8.apps.googleusercontent.com"
+     data-auto_prompt="false"
+     data-callback="onSignIn"></div>
+<div class="g_id_signin" data-type="standard" data-size="large"></div>
+
+<!--  Editable settings form  -->
+<form id="settingsForm" style="display:none">
+  <label>Work minutes
+    <input type="number" id="workMin" min="1" />
+  </label>
+
+  <label>Break midnutes
+    <input type="number" id="breakMin" min="1" />
+  </label>
+
+  <label>Blocked sites (one per line)
+    <textarea id="sites" rows="6"></textarea>
+  </label>
+
+  <button type="submit">Save</button>
+  <button type="button" id="startWork">Start Work</button>
+</form>
+
+<pre id="status"></pre>
+
+<script>
+let idToken = "";
+
+/* ─── Google sign-in callback ─── */
+function onSignIn(response) {
+  idToken = response.credential;
+  document.querySelector(".g_id_signin").style.display = "none";
+  settingsForm.style.display = "block";
+  loadSettings();
+}
+
+/* ─── Load current settings from Flask ─── */
+async function loadSettings() {
+  const r = await fetch("/api/settings", {
+    headers: { Authorization: `Bearer ${idToken}` }
+  });
+  const s = await r.json();
+  workMin.value  = s.workMin       ?? 25;
+  breakMin.value = s.breakMin      ?? 5;
+  sites.value    = (s.blockedSites ?? []).join("\n");
+  showTodaySummary();
+}
+
+/* ─── Save form to Flask ─── */
+settingsForm.addEventListener("submit", async e => {
+  e.preventDefault();
+  const payload = {
+    workMin:  +workMin.value,
+    breakMin: +breakMin.value,
+    blockedSites: sites.value
+      .split(/\s+/)
+      .map(x => x.trim())
+      .filter(Boolean)
+  };
+  await fetch("/api/settings", {
+    method: "PUT",
+    headers: {
+      Authorization: `Bearer ${idToken}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(payload)
+  });
+  status.textContent = "✅ Settings saved";
+});

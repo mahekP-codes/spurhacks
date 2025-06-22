@@ -1,0 +1,12 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Hello Flask</title>
+<body>
+<h1>It works! This is my home page for settings</h1>
+<script>
+fetch("/api/health")
+  .then(r => r.json())
+  .then(j => document.body.insertAdjacentHTML("beforeend",
+           `<p>Status from server: <b>${j.status}</b></p>`));
+</script>
+</body>
